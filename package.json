@@ -35,7 +35,8 @@
     "typecheck": "tsc --noEmit",
     "release": "bumpp --commit --tag && npm publish",
     "lint": "eslint .",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "uninstall": "node ./dist/cleanup.js"
   },
   "devDependencies": {
     "@eslint/css": "^0.11.0",
