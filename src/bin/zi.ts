@@ -6,6 +6,7 @@ import { checkSetup } from "../utils/verifyConfig";
 import ziHelp from "../help";
 import log from "../log";
 import { version } from "../../package.json";
+import cleanup from "../cleanup";
 
 class ZiCommand extends Command {
   createCommand(name: string) {
@@ -73,5 +74,10 @@ program
   .command("start")
   .description("Start logging the current session")
   .action(() => {});
+
+program
+  .command("cleanup")
+  .description("Cleanup the zi installation")
+  .action(cleanup);
 
 program.parse(process.argv);
