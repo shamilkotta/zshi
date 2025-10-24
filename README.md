@@ -2,7 +2,7 @@
 
 zshi (`zi`) is ai help in you terminal for your broken commands.
 
-<video src="https://github.com/user-attachments/assets/485ce86c-1f78-4b40-8d7e-b3093989952b"></video>
+![zshi](https://github.com/user-attachments/assets/bd9aac35-26db-4b80-922d-15f6bc99b9f3)
 
 ## Warning
 
