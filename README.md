@@ -2,6 +2,8 @@
 
 zshi (`zi`) is ai help in you terminal for your broken commands.
 
+![zshi](https://github.com/user-attachments/assets/bd9aac35-26db-4b80-922d-15f6bc99b9f3)
+
 ## Warning
 
 ### ⚠️ Interactive Commands & Logging

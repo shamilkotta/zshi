@@ -1,6 +1,6 @@
 {
   "name": "zshi",
-  "version": "0.4.1",
+  "version": "0.4.4",
   "description": "A light intelligence in your zsh",
   "type": "module",
   "license": "MIT",
@@ -58,5 +58,13 @@
     "ai": "^5.0.44",
     "commander": "^14.0.0"
   },
-  "packageManager": "pnpm@10.15.0"
+  "packageManager": "pnpm@10.15.0",
+  "keywords": [
+    "zshi",
+    "terminal",
+    "cli",
+    "zsh",
+    "ai",
+    "assistant"
+  ]
 }
